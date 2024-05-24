@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 0cqmax;
+}
+
+body {
+    text-align: center;
+    font-family:"Comic Sans MS";
+}
+#buttonBox {
+    text-align: center;
+    margin-top: 30px;
+}
+#thingToDo {
+    margin-top: 20px;
+    background-color: #dadada;
+    text-align: center;
+}
